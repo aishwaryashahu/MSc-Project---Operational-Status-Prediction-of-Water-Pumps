@@ -3,15 +3,8 @@
 ## School: Computer Science, University of Nottingham, UK
 ## Academic Year: 2023-24
 
-### Student Information
-- **Name**: Aishwarya Shahu
-- **Student ID**: 20607987
-
 ## Project Title
 **Operational Status Prediction of Water Pumps**
-
-### Module Code
-COMPXXXX
 
 ## Project Overview
 This project explores the application of machine learning techniques to predict the operational status of water pumps in Tanzania. The dataset, sourced from the Taarifa waterpoints dashboard and the Tanzania Ministry of Water, contains detailed attributes of over 59,000 water points across various regions. The study implements a robust methodology encompassing data preprocessing, exploratory data analysis (EDA), and the application of multiple classification algorithms.
